@@ -11,3 +11,6 @@ char * strcpy(char *dest, char *src)
       }
       return pTemp;
 }
+/**
+远程edit
+**/
